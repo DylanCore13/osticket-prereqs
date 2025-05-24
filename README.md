@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Laptop and working Internet of course
 - Active Azure subscription (Can pay for it or apply for a Free Tier/Trial)
 - Downloaded osTicket-Installation-Files
--
+
 - https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0
 
 
