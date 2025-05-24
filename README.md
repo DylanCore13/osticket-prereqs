@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 
-[image](https://github.com/user-attachments/assets/f51bd98c-3d2f-4ff5-b751-6d547248be26)
+<p> https://imgur.com/a/mPyYxMg </p>
 
 <p>
 Start by creating a virtual machine in Azure, you can search it up in the serach bar or clicking on it at home page at the top where it virtual machines. After that
