@@ -95,7 +95,8 @@ Copy and paste it into the computer bar and it will ask to log in with username 
 <b/>
 
 <p>
-Remember that you'll everything you'll be doing from is ON THE VIRTUAL MACHINE!!! Next you will have to download the osTicket Installation files on the virtual machine.
+Remember that you'll be doing everything from here on out ON THE VIRTUAL MACHINE!!! Next you will have to download the osTicket Installation files on the virtual machine.
+ 
 - https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0
 
 Within the VM (osticket-vm), download the osTicket-Installation-Files.zip and unzip it onto your desktop. The folder should be called “osTicket-Installation-Files”
