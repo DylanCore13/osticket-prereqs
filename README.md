@@ -33,11 +33,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-Start by creating a virtual machine in Azure, you can search it up in the serach bar or clicking on it at home page at the top where it virtual machines. After that
+Start by creating a virtual machine in Azure, you can search it up in the serach bar or clicking on it at home page at the top where it virtual machines. After that you're going to create an Azure Virtual Machine Windows 10, 4 vCPUs
+
+
 </p>
 <br />
 
 ![Step 1](https://github.com/user-attachments/assets/34cb320e-9e10-4bb7-bd7d-239fcfb95a5e)
+
+![step 2](https://github.com/user-attachments/assets/7413fb73-4754-499d-b5ae-147ff30d3731)
+
+
 
 <br/>
 
