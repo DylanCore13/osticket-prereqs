@@ -37,7 +37,8 @@ Start by creating a virtual machine in Azure, you can search it up in the serach
 </p>
 <br />
 
-<img src="https://imgur.com/a/mPyYxMg"> 
+<img src="![Step 1](https://github.com/user-attachments/assets/1615a728-ae9b-4a34-920c-0437e3d8d7d2)
+"> 
 
 
 
