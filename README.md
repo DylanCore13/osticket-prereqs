@@ -76,7 +76,8 @@ At the bottom it will make check a box after that just click "review+create" thi
 
 
 <p>
-AFter it created you will have to copy public IP address and open remote desktop connection from start button or search it up.
+ 
+After it created you will have to copy public IP address and open remote desktop connection from start button or search it up.
 
  
 </p>
