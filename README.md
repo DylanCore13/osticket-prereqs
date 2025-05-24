@@ -87,9 +87,16 @@ After it created you will have to copy public IP address and open remote desktop
 
 
 <p>
-Copy and paste it into the computer bar and it will ask to log in with username and password you set up when creating th virtual machine. 
+Copy and paste it into the computer bar and it will ask to log in with username and password you set up when creating the virtual machine. From there connect and you will be logged in into a VIRTUAL MACHINE/COMPUTER.
 </p>
 <br />
 
 ![image](https://github.com/user-attachments/assets/54095197-abc1-4a35-b556-0943ce041c18)
+<b/>
+
+<p>
+Next you will have to download the osTicket Installation files
+- https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0
+ 
+</p>
 
