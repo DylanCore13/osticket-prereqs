@@ -65,8 +65,14 @@ There's a ton of ways custiomize and setup your virtual machine, your going to s
 
 At the bottom it will make check a box after that just click "review+create" this will make Azure validate the virtual machine you wnat to launch making sure it will work. You will probably have to click create again.
 
-
 </p>
+<b/>
+
+
+![image](https://github.com/user-attachments/assets/767435a4-461f-4337-8197-def9a2c39ef4)
+
+<b/>
+
 
 
 
