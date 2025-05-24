@@ -44,10 +44,30 @@ Start by creating a virtual machine in Azure, you can search it up in the serach
 ![step 2](https://github.com/user-attachments/assets/7413fb73-4754-499d-b5ae-147ff30d3731)
 
 
-
 <br/>
 
+<p>
+There's a ton of ways custiomize and setup your virtual machine, your going to see catagories around saying, Basics, Disks, Networking, Management, Monitoring, etc. Know that you'll only be using Basics to set it up. Create a new resource group, name it the same as the virtual machine if you'd like. Here's how the set up goes from here.
 
+Region: (US) East US 2
+Availability options: Zone options - SELECT "self selected zone"
+Availability zone: Zone 1
+Security type: Trusted launch virutal machines
+Image: Windows 10 Pro, Version 22H2
+VM architecture: x64
+Size*: Standard_E2s_v3 - 2 vcpus, 16 GiB memory
+DO NOT ENABLE HIBERNATION!!!
+Username: labuser
+Password: osTicketPassword1!
+Public inbound ports*: Allow selected ports
+Select inbound ports*: RDP(3389)
+Username: labuser
+Password: osTicketPassword1!
+
+At the bottom it will make check a box after that just click "review+create" this will make Azure validate the virtual machine you wnat to launch making sure it will work. You will probably have to click create again.
+
+
+</p>
 
 
 
