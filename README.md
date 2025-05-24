@@ -61,8 +61,7 @@ There's a ton of ways custiomize and setup your virtual machine, your going to s
 - Password: osTicketPassword1!
 - Public inbound ports*: Allow selected ports
 - Select inbound ports*: RDP(3389)
-- Username: labuser
-- Password: osTicketPassword1!
+
 
 At the bottom it will make check a box after that just click "review+create" this will make Azure validate the virtual machine you wnat to launch making sure it will work. You will probably have to click create again.
 
