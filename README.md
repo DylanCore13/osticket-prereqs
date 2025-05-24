@@ -75,11 +75,10 @@ At the bottom it will make check a box after that just click "review+create" thi
 
 
 
-
-
-
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+AFter it created you will have to copy public IP address and open remote desktop connection from start button or search it up.
+
+ 
 </p>
 <br />
 
