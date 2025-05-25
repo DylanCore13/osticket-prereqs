@@ -184,6 +184,9 @@ Reload IIS (Open IIS, Stop and Start the server)
 Go to sites -> Default -> osTicket
 On the right, click “Browse *:80”
 
+![image](https://github.com/user-attachments/assets/28330482-df97-4432-a356-bbdd6bac4428)
+
+
 Note that some extensions are not enabled
 Go back to IIS, sites -> Default -> osTicket
 Double-click PHP Manager
