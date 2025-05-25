@@ -156,6 +156,9 @@ Standard Configuration ->
 Username: root
 Password: root
 
+![image](https://github.com/user-attachments/assets/4af17c8f-39f7-4e5b-8f43-fcb450c93e68)
+
+
 Open IIS as an Admin
 
 Register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe)
