@@ -205,6 +205,9 @@ Rename: ost-config.php
 From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
+![image](https://github.com/user-attachments/assets/7c91d420-fc29-4723-b1fc-c2dfbf5c2a77)
+
+
 Assign Permissions: ost-config.php
 Disable inheritance -> Remove All
 New Permissions -> Everyone -> All
