@@ -174,6 +174,7 @@ Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
 
 ![image](https://github.com/user-attachments/assets/d3c05ba3-217f-48a2-a223-078213a5b38f)
 
+![image](https://github.com/user-attachments/assets/6a8a5a1d-f231-42d3-953f-f78785b56acb)
 
 
 
