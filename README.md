@@ -123,11 +123,25 @@ From the “osTicket-Installation-Files” folder, install PHP Manager for IIS (
 
 From the “osTicket-Installation-Files” folder install the Rewrite Module (rewrite_amd64_en-US.msi)
 
+![image](https://github.com/user-attachments/assets/2caeaac2-a19f-4fa6-8e12-aee948d4bb1b)
+
+<b/>
+
 Create the directory C:\PHP
+
+
+
+
+
+
 
 From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
 
 From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe.
+
+![image](https://github.com/user-attachments/assets/2caeaac2-a19f-4fa6-8e12-aee948d4bb1b)
+
+<b/>
 
 From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
 Typical Setup ->
