@@ -212,6 +212,9 @@ Assign Permissions: ost-config.php
 Disable inheritance -> Remove All
 New Permissions -> Everyone -> All
 
+![image](https://github.com/user-attachments/assets/1124b6d0-84e9-4cea-ad62-04d5ffccb0c0)
+
+
 Continue Setting up osTicket in the browser (click Continue)
 Name Helpdesk
 Default email (receives email from customers)
