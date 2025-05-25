@@ -111,8 +111,13 @@ We will use the files in this folder to install osTicket and some of the depende
 
 
 
-Install / Enable IIS in Windows WITH CGI
-World Wide Web Services -> Application Development Features -> [X] CGI
+Open Control panel, click on unstall program. CLick on Turn Windows features on or off on left side. Click on check box where it says "Internet Information Services" than click on + marker on left side to reveal more features, click on + marker again on "World Wide Web Services". Finally click on + marker for "Application Development features". Check box CGI
+
+![image](https://github.com/user-attachments/assets/62f78445-a1b7-4bcb-9be4-2efd98773164)
+
+<b/>
+
+
 
 From the “osTicket-Installation-Files” folder, install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
 
