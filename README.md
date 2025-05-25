@@ -100,14 +100,16 @@ Remember that you'll be doing everything from here on out ON THE VIRTUAL MACHINE
 - https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0
 
 
+Within the VM (osticket-vm), download the osTicket-Installation-Files.zip and unzip it onto your desktop. The folder should be called “osTicket-Installation-Files”
+We will use the files in this folder to install osTicket and some of the dependencies.
+
+
 ![image](https://github.com/user-attachments/assets/2caeaac2-a19f-4fa6-8e12-aee948d4bb1b)
 
 <b/>
 
 
 
-Within the VM (osticket-vm), download the osTicket-Installation-Files.zip and unzip it onto your desktop. The folder should be called “osTicket-Installation-Files”
-We will use the files in this folder to install osTicket and some of the dependencies.
 
 Install / Enable IIS in Windows WITH CGI
 World Wide Web Services -> Application Development Features -> [X] CGI
