@@ -127,7 +127,7 @@ From the “osTicket-Installation-Files” folder install the Rewrite Module (re
 
 <b/>
 
-Create the directory C:\PHP
+Go to C:\ and create a new folder and name it PHP
 
 
 ![image](https://github.com/user-attachments/assets/ea8d9a31-0f9f-4e97-85e6-26c239414ac6)
@@ -246,13 +246,6 @@ Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 
 ![image](https://github.com/user-attachments/assets/677c1845-29ca-42c7-a30e-6fd46308f491)
 
-
-End Users osTicket URL:
-http://localhost/osTicket/ 
-
-Clean up
-Delete: C:\inetpub\wwwroot\osTicket\setup
-Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
   
 </p>
