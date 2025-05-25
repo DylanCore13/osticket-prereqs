@@ -177,7 +177,7 @@ Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
 ![image](https://github.com/user-attachments/assets/6a8a5a1d-f231-42d3-953f-f78785b56acb)
 
 
-
+<b/>
 
 Reload IIS (Open IIS, Stop and Start the server)
 
@@ -185,6 +185,8 @@ Go to sites -> Default -> osTicket
 On the right, click “Browse *:80”
 
 ![image](https://github.com/user-attachments/assets/28330482-df97-4432-a356-bbdd6bac4428)
+
+<b/>
 
 
 Note that some extensions are not enabled
@@ -195,6 +197,9 @@ Enable: php_imap.dll
 Enable: php_intl.dll
 Enable: php_opcache.dll
 Refresh the osTicket site in your browser, observe the changes
+
+![image](https://github.com/user-attachments/assets/0cbfc114-f1e3-4dd0-86fa-59cb62bb6347)
+
 
 Rename: ost-config.php
 From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
