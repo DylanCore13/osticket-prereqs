@@ -172,6 +172,12 @@ Install osTicket v1.15.8
 From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot”
 Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
 
+![image](https://github.com/user-attachments/assets/d3c05ba3-217f-48a2-a223-078213a5b38f)
+
+
+
+
+
 Reload IIS (Open IIS, Stop and Start the server)
 
 Go to sites -> Default -> osTicket
