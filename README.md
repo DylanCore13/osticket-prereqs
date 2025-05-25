@@ -214,6 +214,7 @@ New Permissions -> Everyone -> All
 
 ![image](https://github.com/user-attachments/assets/1124b6d0-84e9-4cea-ad62-04d5ffccb0c0)
 
+![image](https://github.com/user-attachments/assets/708cd4d2-edac-486a-94e4-8128b7df4bb4)
 
 Continue Setting up osTicket in the browser (click Continue)
 Name Helpdesk
@@ -225,11 +226,20 @@ Create a new session, root/root
 Connect to the session
 Create a database called “osTicket”
 
+![image](https://github.com/user-attachments/assets/1c357c1e-68d1-450e-98d9-665393b1824f)
+
+
+![image](https://github.com/user-attachments/assets/b559eaba-500b-4f9b-a7d1-5fc28239c7b0)
+
+
 Continue Setting up osTicket in the browser
 MySQL Database: osTicket
 MySQL Username: root
 MySQL Password: root
 Click “Install Now!”
+
+![image](https://github.com/user-attachments/assets/e6a070da-e0d5-44c0-ae71-7e516b9d218c)
+
 
 Congratulations, hopefully it is installed with no errors!
 Browse to your help desk login page: http://localhost/osTicket/scp/login.php
