@@ -244,6 +244,9 @@ Click “Install Now!”
 Congratulations, hopefully it is installed with no errors!
 Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 
+![image](https://github.com/user-attachments/assets/677c1845-29ca-42c7-a30e-6fd46308f491)
+
+
 End Users osTicket URL:
 http://localhost/osTicket/ 
 
